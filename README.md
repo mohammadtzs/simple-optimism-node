@@ -1,6 +1,6 @@
 # Simple Optimism Node
 
-A simple docker compose script for launching full / archive node for OP Stack chains.
+A simple docker compose script for launching full / archive node for OP Stack chains
 
 <!-- ## Use cases
 * Docker compose to launch Optimism mainnet full / archive node -->
